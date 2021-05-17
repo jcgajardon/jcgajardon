@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jcgajardon
+- 👀 I am interested in software development, I have 4 years of experience developing with the MERN stack.
+- 🌱 I am currently learning Jest and Enzyme for testing with React JS and Node JS.
+- 💞️ I am looking to collaborate on projects with JS stack like React JS or Node JS.
+- 📫 To contact me please send an email to jcgajardon@gmail.com
