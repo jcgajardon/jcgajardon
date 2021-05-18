@@ -8,7 +8,7 @@
 ✍️ &nbsp;I play video games, I watch movies and series.  
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics.  
 ✉️ &nbsp;You can email me at jcgajardon@gmail.com. I'll try to respond as soon as possible.  
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1lFRLUZU-fo3rLb_L3xmQOmg4_OyVKadx/view?usp=sharing) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1lFRLUZU-fo3rLb_L3xmQOmg4_OyVKadx/view?usp=sharing) for more details about work experience. I leave you my personal website [JcGajardon](https://www.jcgajardon.com/) and that of my business [Soludev](https://www.soludev.cl/).
 
 
 ### 🛠 &nbsp;Tech Stack
